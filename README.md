@@ -56,7 +56,9 @@ Helper functions for data preprocessing and evaluation are provided in the utils
 
 Citation
 
-If you use this code in your research, please cite our arXiv preprint:
+If you use this code in your research, please cite :
+
+code DOI :10.5281/zenodo.14628991
 
 @article{greeshma2025tb,
   title={Enhanced Tuberculosis Bacilli Detection using Attention-Residual U-Net and Ensemble Classification},
